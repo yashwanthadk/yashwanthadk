@@ -10,3 +10,5 @@ def explo(a,b):
     return a**b
 def floor(a,b):
     return a//b
+print("yashwantha gowda")
+print("shokdar gowda")
