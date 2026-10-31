@@ -8,3 +8,5 @@ def divi(a,b):
     return a/b
 def explo(a,b):
     return a**b
+def floor(a,b):
+    return a//b
